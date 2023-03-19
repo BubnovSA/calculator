@@ -460,16 +460,6 @@
         "number": 46
     },
     {
-        "name": "Лук жаренный",
-        "calories": 580,
-        "squirrels": 6,
-        "fats": 44,
-        "carbohydrates": 40,
-        "weight": 0,
-        "price": 50,
-        "number": 47
-    },
-    {
         "name": "Соус сырный",
         "calories": 440,
         "squirrels": 1.5,
@@ -477,6 +467,6 @@
         "carbohydrates": 10,
         "weight": 0,
         "price": 60,
-        "number": 48
+        "number": 47
     }
 ]
